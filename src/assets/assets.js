@@ -215,6 +215,7 @@ export const dummyCourses = [
     {
         "_id": "605c72efb3f1c2b1f8e4e1a1",
         "courseTitle": "Introduction to JavaScript",
+        "courseDescription":"<h2>JavaScript Course Overview</h2><p>JavaScript is a powerful and versatile programming language that forms the backbone of modern web development. This course is designed to help beginners build a strong foundation and understand how to create dynamic and interactive web applications.</p><p>You will learn core concepts such as variables, data types, operators, control structures, functions, scope, closures, and how JavaScript executes code behind the scenes. The course also covers important topics like execution context, hoisting, and memory management.</p><h3>What You Will Learn:</h3><ul><li>JavaScript fundamentals and syntax</li><li>Functions, scope, and closures</li><li>DOM manipulation and event handling</li><li>Building interactive UI features</li><li>Debugging and writing clean code</li></ul><p>By the end of this course, you will be able to build real-world applications and will be ready to move forward with advanced technologies like React and Node.js.</p>",
         "coursePrice": 4150,
         "isPublished": true,
         "discount": 20,
@@ -287,6 +288,7 @@ export const dummyCourses = [
     {
         "_id": "675ac1512100b91a6d9b8b24",
         "courseTitle": "Advanced Python Programming",
+         "courseDescription": "<h2>Python Course Overview</h2><p>Python is a powerful, easy-to-learn, and highly versatile programming language widely used in web development, data science, automation, artificial intelligence, and more. This course is designed to help beginners build a strong foundation in Python and develop problem-solving skills through practical examples.</p><p>You will learn core Python concepts such as variables, data types, operators, control flow, functions, and object-oriented programming. The course also introduces real-world applications like file handling, error handling, and working with libraries.</p><h3>What You Will Learn:</h3><ul><li>Python fundamentals and syntax</li><li>Control structures (if-else, loops)</li><li>Functions and modular programming</li><li>Object-Oriented Programming (OOP)</li><li>File handling and exception handling</li><li>Introduction to libraries and real-world use cases</li></ul><p>By the end of this course, you will be able to write efficient Python programs, solve real-world problems, and build a strong base for advanced topics like data science, machine learning, and backend development using frameworks like Django and Flask.</p>",
         "coursePrice": 6640,
         "isPublished": true,
         "discount": 15,
@@ -358,6 +360,7 @@ export const dummyCourses = [
     {
         "_id": "605c72efb3f1c2b1f8e4e1ae",
         "courseTitle": "Cybersecurity Basics",
+          "courseDescription": "<h2>Cybersecurity Course Overview</h2><p>Cybersecurity is a critical field focused on protecting systems, networks, and data from digital attacks. This course is designed to introduce beginners to the fundamentals of cybersecurity and provide a strong foundation in securing digital environments.</p><p>You will learn essential concepts such as network security, encryption, ethical hacking basics, and common cyber threats like malware, phishing, and ransomware. The course also covers practical techniques for identifying vulnerabilities and protecting systems against attacks.</p><h3>What You Will Learn:</h3><ul><li>Introduction to cybersecurity and threat landscape</li><li>Types of cyber attacks and how they work</li><li>Network security fundamentals</li><li>Basics of encryption and data protection</li><li>Ethical hacking and penetration testing concepts</li><li>Best practices for securing systems and applications</li></ul><p>By the end of this course, you will understand how to identify security risks, protect sensitive data, and build a strong foundation for advanced topics such as ethical hacking, penetration testing, and security analysis.</p>",
         "coursePrice": 5810,
         "isPublished": true,
         "discount": 15,
@@ -423,6 +426,7 @@ export const dummyCourses = [
     {
         "_id": "605c72efb3f1c2b1f8e4e1a7",
         "courseTitle": "Web Development Bootcamp",
+          "courseDescription": "<h2>Web Development Bootcamp Overview</h2><p>This comprehensive Web Development Bootcamp is designed to take you from a complete beginner to a job-ready full-stack developer. You will learn how to build modern, responsive, and scalable web applications using the latest technologies and industry best practices.</p><p>The course covers both frontend and backend development, starting with the fundamentals of HTML, CSS, and JavaScript, and progressing to advanced concepts like React, APIs, databases, and server-side development. You will work on real-world projects that strengthen your understanding and help you build a strong portfolio.</p><h3>What You Will Learn:</h3><ul><li>HTML, CSS, and responsive design</li><li>JavaScript fundamentals and advanced concepts</li><li>Frontend development with React</li><li>Backend development with Node.js and Express</li><li>Database management (SQL and NoSQL)</li><li>REST APIs and authentication</li><li>Version control with Git and GitHub</li></ul><p>By the end of this bootcamp, you will be able to build full-stack web applications, deploy them, and confidently apply for developer roles. This course is ideal for anyone looking to start a career in web development or upgrade their existing skills.</p>",
         "coursePrice": 8300,
         "isPublished": true,
         "discount": 25,
@@ -488,6 +492,7 @@ export const dummyCourses = [
     {
         "_id": "605c72efb3f1c2b1f8e4e1ac",
         "courseTitle": "Cloud Computing Essentials",
+          "courseDescription": "<h2>Cloud Computing Essentials Overview</h2><p>Cloud computing is a fundamental technology that powers modern applications, enabling scalable, flexible, and cost-effective solutions. This course is designed to introduce beginners to the core concepts of cloud computing and how it is used in real-world environments.</p><p>You will learn about different cloud service models such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). The course also covers deployment models, cloud architecture, virtualization, and how leading platforms like AWS, Microsoft Azure, and Google Cloud operate.</p><h3>What You Will Learn:</h3><ul><li>Introduction to cloud computing and its benefits</li><li>Cloud service models (IaaS, PaaS, SaaS)</li><li>Public, private, and hybrid cloud</li><li>Basics of cloud architecture and virtualization</li><li>Storage, networking, and security in the cloud</li><li>Overview of AWS, Azure, and Google Cloud platforms</li></ul><p>By the end of this course, you will understand how cloud systems work, how to deploy basic applications in the cloud, and how to choose the right cloud services for different use cases. This course provides a strong foundation for advanced cloud certifications and roles such as cloud engineer or DevOps engineer.</p>",
         "coursePrice": 5810,
         "isPublished": true,
         "discount": 20,
@@ -552,6 +557,7 @@ export const dummyCourses = [
     {
         "_id": "605c72efb3f1c2b1f8e4e1ad",
         "courseTitle": "Data Science with Python",
+        "courseDescription": "<h2>Data Science with Python Overview</h2><p>Data Science with Python is a comprehensive course designed to help you analyze data, extract meaningful insights, and build intelligent solutions using Python. This course is ideal for beginners and aspiring data scientists who want to learn how to work with data in real-world scenarios.</p><p>You will start with Python fundamentals and gradually move into data analysis, visualization, and basic machine learning concepts. The course introduces popular libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn, enabling you to handle data efficiently and build predictive models.</p><h3>What You Will Learn:</h3><ul><li>Python basics for data science</li><li>Data analysis using Pandas and NumPy</li><li>Data visualization with Matplotlib and Seaborn</li><li>Data cleaning and preprocessing techniques</li><li>Introduction to machine learning algorithms</li><li>Working with real-world datasets and projects</li></ul><p>By the end of this course, you will be able to analyze datasets, create visual insights, and build simple machine learning models. This course provides a strong foundation for advanced topics like deep learning, artificial intelligence, and big data analytics.</p>",
         "coursePrice": 7470,
         "isPublished": true,
         "discount": 20,
@@ -624,6 +630,7 @@ export const dummyCourses = [
     {
         "_id": "605c72efb3f1c2b1f8e4e1aa",
         "courseTitle": "Data Science and Machine Learning",
+        "courseDescription": "<h2>Data Science and Machine Learning Overview</h2><p>Data Science and Machine Learning is a comprehensive course designed to help you understand how to extract insights from data and build intelligent predictive models. This course is ideal for beginners and aspiring professionals who want to develop strong analytical and problem-solving skills using modern tools and techniques.</p><p>You will learn the complete data science workflow, starting from data collection and cleaning to analysis, visualization, and model building. The course introduces key machine learning concepts and algorithms, enabling you to create models that can make accurate predictions based on data.</p><h3>What You Will Learn:</h3><ul><li>Fundamentals of data science and data analysis</li><li>Data cleaning and preprocessing techniques</li><li>Data visualization using tools like Matplotlib and Seaborn</li><li>Supervised and unsupervised machine learning algorithms</li><li>Model evaluation and performance optimization</li><li>Working with real-world datasets and projects</li></ul><p>By the end of this course, you will be able to analyze complex datasets, build machine learning models, and generate meaningful insights for decision-making. This course provides a strong foundation for advanced topics such as deep learning, artificial intelligence, and big data technologies.</p>",
         "coursePrice": 7470,
         "isPublished": true,
         "discount": 30,
@@ -688,6 +695,7 @@ export const dummyCourses = [
     {
         "_id": "605c72efb3f1c2b1f8e4e1ab",
         "courseTitle": "Introduction to Cybersecurity",
+        "courseDescription": "<h2>Introduction to Cybersecurity</h2><p>Protect yourself and your data with our Introduction to Cybersecurity course. This course provides an overview of cybersecurity principles, common threats, and essential security practices to help you stay safe in the digital world.</p>",
         "coursePrice": 4980,
         "isPublished": true,
         "discount": 15,
