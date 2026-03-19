@@ -5,6 +5,7 @@ import {Line} from 'rc-progress'
 import Footer from '../../components/student/Footer'
 
 const MyEnrollments = () => {
+  
   const {enrolledCourses, calculateCourseDuration} = useContext(AppContext)
   const [progress, setProgress] = useState([
     {lectureCompleted: 4, totalLecture: 10},
